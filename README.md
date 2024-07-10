@@ -1,7 +1,9 @@
 Sudoku Generator
+
 This Java project generates Sudoku puzzles of a specified size and difficulty. It creates a fully solved Sudoku board and then removes a specified number of digits to create a playable puzzle.
 
 Features
+
 Generates Sudoku puzzles for any N x N grid where N is a perfect square (e.g., 4, 9, 16).
 Allows customization of difficulty by specifying the number of missing digits (K).
 Ensures valid Sudoku rules are followed for row, column, and subgrid uniqueness.
